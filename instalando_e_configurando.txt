@@ -1,0 +1,1 @@
+Foi bom rever outros metodos de instalar o git, e tambem algumas configuracoes que eu nao sabia
