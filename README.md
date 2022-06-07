@@ -1,1 +1,1 @@
-Exercicio que fiz para dominar versionamento do codigousando git e github, e me tornar FullStack JavaSCript
+Exercicio que fiz para dominar versionamento do codigo usando git e github, e me tornar um Desenvolvedor FullStack JavaSCript.
